@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="brown_primary">#AF8376</color>
+    <color name="brown_primary_light">#E2B3A5</color>
+    <color name="brown_primary_dark">#7E564A</color>
+    <color name="water_secondary">#76A2AF</color>
+    <color name="water_secondary_light">#A6D3E1</color>
+    <color name="water_secondary_dark">#487380</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_dark">#212121</color>
+
+</resources>
